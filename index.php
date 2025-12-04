@@ -1,8 +1,3 @@
-<?php
-include 'Administrator/connection/connection.php';
-session_start();
-session_destroy();
-?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US"><head>
     <meta charset="utf-8">
